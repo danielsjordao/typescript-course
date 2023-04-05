@@ -1,4 +1,5 @@
-let array1: [string, string, number, boolean] = ["Daniel", "Jordão", 1504, true]; //array limitado
+//tuplas
+let array1: [string, string, number, boolean] = ["Daniel", "Jordão", 1504, true]; //array limitado e há uma ordem específica
 let array2: Array<string | number | boolean> = ['Daniel', "da Silva", "Jordão", 1504, true];//array cheio de strings (|"ou")
 
 console.log(array1);
