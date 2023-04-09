@@ -3,7 +3,7 @@
 # 1. Instalação
 # 2. Tipos
 ## 1. String - Number - Boolean
-## 2.
+## 2. Array e Objeto
 ## 3.
 ## 4.
 ## 5.
