@@ -2,7 +2,7 @@
 
 # 1. Instalação
 # 2. Tipos
-## 1.
+## 1. String - Number - Boolean
 ## 2.
 ## 3.
 ## 4.
