@@ -12,8 +12,8 @@
 // ( public ( protected ( private )))
 
 class Pessoa{
-    public nome: string = "";
-    public idade: number = 0;
+    protected nome: string = "";
+    protected idade: number = 0;
 
     constructor(nome: string, idade: number){
         this.nome = nome;
@@ -29,7 +29,36 @@ class Pessoa{
     }
 }
 
-const pessoa = new Pessoa ("Daniel", 39);
+class Daniel extends Pessoa{
+
+    private profissao: string = "Programador";
+
+    constructor(){
+        super("Daniel", 39);
+    }
+
+    public getprofissao() {
+        return `${this.nome} trabalha como ${this.profissao}`;
+    }
+}
+// class Mona extends Pessoa{
+//     constructor(){
+//         super("Mona", 37);
+//     }
+// }
+// super é usado no constructor para não dar erro
+
+const daniel = new Daniel();
+console.log(daniel.getprofissao());
+// const mona = new Mona();
+
+// console.log(mona.nome);
+// console.log(mona.idade);
+// console.log(mona.comer("Gyros"));
+// console.log(mona.fezAniversario());
+
+
+
 
 
 
