@@ -13,27 +13,26 @@
 
 # 2. Tipos
 
-## 1. String - Number - Boolean
-## 2. Array e Objeto
-## 3. Any
-## 4. Union Types
-## 5. Void
-## 6. Never
-## 7. Aliases
-## 8. String Literal Types
-## 9. Optional
-## 10. Enum
+1. String - Number - Boolean
+2. Array e Objeto
+3. Any
+4. Union Types
+5. Void
+6. Never
+7. Aliases
+8. String Literal Types
+9. Optional
+10. Enum
 
 # 3. Classes
-
-## 1. Class
-## 2. Métodos
-## 3. Modificadores de Acesso
-## 4. Herança
-## 5. Getters e Setters
-## 6. Abstract
-## 7. Static
-## 8. ReadOnly
+1. Class
+2. Métodos
+3. Modificadores de Acesso
+4. Herança
+5. Getters e Setters
+6. Abstract
+7. Static
+8. ReadOnly
 
 # 4. Interfaces
 
