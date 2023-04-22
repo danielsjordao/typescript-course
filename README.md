@@ -36,6 +36,8 @@
 
 # 4. Interfaces
 
+- As interfaces Typescript definem os contratos em
+seu código. Eles também fornecem nomes explícitos para verificação de tipo.
 # 5. NameSpaces
 
 # 6. Compilador
