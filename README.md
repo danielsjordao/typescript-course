@@ -38,6 +38,13 @@
 
 - As interfaces Typescript definem os contratos em
 seu código. Eles também fornecem nomes explícitos para verificação de tipo.
+
 # 5. NameSpaces
+
+- Resumidamente os módulos em JavaScript ou TypeScript é uma forma de você compartilhar informações entre arquivos, desta forma, todos os arquivos que realizarem a importação desse módulo poderão utilizar e usufruir de suas funções ou informações que foram expostas.
+
+- import = Importa informações de um class, namespace, const, let, etc...
+- export = Exporta para outras pessoas consumirem informações.
+
 
 # 6. Compilador
