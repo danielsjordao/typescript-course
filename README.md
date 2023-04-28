@@ -48,3 +48,5 @@ seu código. Eles também fornecem nomes explícitos para verificação de tipo.
 
 
 # 6. Compilador
+
+- Atividade de desenvolvimento em typescripts 
